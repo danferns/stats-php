@@ -6,7 +6,7 @@ Whenever a page with this script is viewed, it will collect the following data:
 - The referrer of the page (where the visitor came from), if any.
 - The country the viewer is from (based on their IP).
 
-After collecting this, it will add it to stats.txt in CSV format in this format:
+After collecting this, it will add it to stats.txt in format in this format:
 - Year,Month,Day of month,Time,Page,Referrer,Country
 
 You can then open this text file and view it with any CSV viewer like Microsoft Office or OpenOffice.
